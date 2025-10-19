@@ -1,6 +1,6 @@
 ## Привет 👋, меня зовут Дмитрий  
   
-
+## Контакты  
 <a href="https://github.com/KuzneC2" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -9,7 +9,10 @@
 </a>
 <a href="https://instagram.com/77kuznetsow" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>    
+
+<br/>  
+
   
 
 
@@ -22,12 +25,6 @@ Frontend: React, Redux, TypeScript, JavaScript, HTML, CSS
 🔹 Инструменты: RTK, RTK-Query, API  
 🔸 Обучение: Курсы в Яндекс.Практикуме, Кате  
 🔹Спорт: Мастер спорта по академической гребле  
-  
-
-<br/>  
-
-
-## Контакты  
   
 
 <br/>  
